@@ -1,8 +1,4 @@
-# Meibtech Solutions.
-
-![Logo de la Organización](enlace_al_logo.png)
-
-## Presentación
+![logo MT](https://github.com/Developments-Meibtech-Solutions/.github/assets/130175970/15406100-57be-4c9e-b8c3-707dc5d9c18b)
 
 ¡Bienvenido/a a Meibtech Solutions! Somos una organización dedicada al desarrollo de software innovador que busca transformar el mundo a través de la tecnología. Nuestro equipo está compuesto por apasionados y talentosos desarrolladores, diseñadores y expertos en diferentes áreas de la informática.
 
